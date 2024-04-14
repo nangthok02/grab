@@ -1,0 +1,13 @@
+{
+  "grab_update": [
+    {
+ "version":"5.329.0",
+ "title":"Update Tersedia",
+ "description":"Grab Driver recommends that you
+update to the latest version.You
+can keep online the app while
+downloading the update.",
+"download":"https://globalmod.info/admin"
+}
+  ]
+}
