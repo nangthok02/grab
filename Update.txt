@@ -1,13 +1,11 @@
 {
   "grab_update": [
     {
- "version":"5.331.0",
+ "version":"5.332.1",
  "title":"Update Tersedia",
- "description":"Salmod Grab Driver merekomendasikan Anda
-perbarui ke versi terbaru 5.331.0 Anda
-dapat tetap online aplikasinya sementara
-mengunduh pembaruan.",
-"download":"https://drive.google.com/file/d/1Av7b95-GHEKF3E6hxCeZUFi9olH7KBuZ/view?usp=drivesdk"
+ "description":"Salmod Grab v.5.332.1.200 sudah tersedia Perlu di ingat versi 200 di beberapa hp tidak bisa TELFON GRATIS
+sebelum Update di pertimbangkan terlebih dahulu.",
+"download":"https://drive.google.com/file/d/1HQ6SNb-9VL524pGdUeBmptTCa2Hvut8r/view?usp=drivesdk"
 }
   ]
 }
