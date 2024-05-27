@@ -7,7 +7,7 @@
 perbarui ke versi terbaru 5.334.0 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
-"download":"https://drive.google.com/file/d/1-5LmSH1rfdYnfqNwCnsYqmopONagMO4D/view?usp=drivesdk"
+"download":"https://drive.google.com/file/d/11F7vtvaHgPbTLemaHBFatcgw7UP3k4qb/view?usp=drivesdk"
 }
   ]
 }
