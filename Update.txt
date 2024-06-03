@@ -1,13 +1,13 @@
 {
   "grab_update": [
     {
- "version":"5.334.0",
+ "version":"5.335.0",
  "title":"Update Tersedia",
  "description":"Salmod Grab Driver merekomendasikan Anda
-perbarui ke versi terbaru 5.334.0 Anda
+perbarui ke versi terbaru 5.335.0 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
-"download":"https://drive.google.com/file/d/11F7vtvaHgPbTLemaHBFatcgw7UP3k4qb/view?usp=drivesdk"
+"download":"https://drive.google.com/file/d/15pVwEwB15FBrhEgv4T3Padr4FGcW2tmV/view?usp=drivesdk"
 }
   ]
 }
