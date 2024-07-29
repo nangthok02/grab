@@ -1,10 +1,10 @@
 {
   "grab_update": [
     {
- "version":"5.341.0",
+ "version":"5.343.0",
  "title":"Update Tersedia",
  "description":"Salmod Grab Driver merekomendasikan Anda
-perbarui ke versi terbaru 5.341.0 Silahkan Klik Perbarui
+perbarui ke versi terbaru 5.343.0 Silahkan Klik Perbarui
 mengunduh pembaruan.",
 "download":"https://t.me/Cukup_pinot"
 }
